@@ -1,0 +1,15 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de editores
+.vscode/
+.idea/
+
+# Entornos virtuales generales (por si alguno se deja accidentalmente en raíz)
+env/
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/

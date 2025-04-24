@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Entorno virtual local
+env/
+
+# Archivos de entorno
+.env
+.env.*
+
+# SQLite database
+db.sqlite3
+
+# Archivos estáticos o media generados (si aplica)
+media/
+staticfiles/
+
+# Archivos de pruebas y cobertura
+*.log
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
